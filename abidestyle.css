@@ -16,6 +16,12 @@ p {
 	font-size: 1.5vw;
 }
 
+footer {
+	background: #F5EA3D;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
 a {
 	font-family: "Arial";
 	font-size: 2vw;
